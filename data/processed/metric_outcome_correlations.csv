@@ -1,0 +1,22 @@
+metric,label,target,rho,p
+passes_per90,Completed passes per 90,xg_diff,0.4441,0.0
+passes_per90,Completed passes per 90,goal_diff,0.2799,0.0
+passes_per90,Completed passes per 90,points,0.2404,0.0003
+density,Density (pairs linked by 3+ passes),xg_diff,0.3863,0.0
+density,Density (pairs linked by 3+ passes),goal_diff,0.2974,0.0
+density,Density (pairs linked by 3+ passes),points,0.2658,0.0001
+clustering,Weighted clustering,xg_diff,-0.1382,0.0405
+clustering,Weighted clustering,goal_diff,-0.0083,0.903
+clustering,Weighted clustering,points,0.0258,0.7031
+centralisation,Degree centralisation,xg_diff,0.0118,0.8614
+centralisation,Degree centralisation,goal_diff,-0.0467,0.4906
+centralisation,Degree centralisation,points,-0.0679,0.3163
+top_player_share,Top player's share of involvements,xg_diff,0.0178,0.7932
+top_player_share,Top player's share of involvements,goal_diff,-0.0485,0.4741
+top_player_share,Top player's share of involvements,points,-0.0708,0.2961
+network_height,"Network height (mean x, m)",xg_diff,0.3929,0.0
+network_height,"Network height (mean x, m)",goal_diff,0.3362,0.0
+network_height,"Network height (mean x, m)",points,0.3344,0.0
+pass_share,Share of passes (possession proxy),xg_diff,0.4837,0.0
+pass_share,Share of passes (possession proxy),goal_diff,0.3039,0.0
+pass_share,Share of passes (possession proxy),points,0.2672,0.0001

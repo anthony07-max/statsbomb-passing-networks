@@ -1,0 +1,231 @@
+match_id,tournament,stage,team,opponent,goals_for,goals_against,result,points,xg_for,xg_against,window_end_min,passes_attempted,passes_completed,pass_share,formation
+3930158,euro_2024,Group Stage,Germany,Scotland,5,1,W,3,1.845,0.061,41.1,335,307,0.705,4-2-3-1
+3930158,euro_2024,Group Stage,Scotland,Germany,1,5,L,0,0.061,1.845,41.1,140,108,0.295,3-4-3
+3930159,euro_2024,Group Stage,Hungary,Switzerland,1,3,L,0,1.103,2.096,45.0,186,145,0.396,3-4-2-1
+3930159,euro_2024,Group Stage,Switzerland,Hungary,3,1,W,3,2.096,1.103,67.5,369,311,0.532,3-4-2-1
+3930160,euro_2024,Group Stage,Spain,Croatia,3,0,W,3,1.567,2.482,59.0,282,235,0.453,4-2-3-1
+3930160,euro_2024,Group Stage,Croatia,Spain,0,3,L,0,2.482,1.567,55.2,330,288,0.556,4-3-3
+3930161,euro_2024,Group Stage,Italy,Albania,2,1,W,3,1.45,0.355,76.5,679,625,0.701,4-3-3
+3930161,euro_2024,Group Stage,Albania,Italy,1,2,L,0,0.355,1.45,67.6,269,225,0.305,4-2-3-1
+3930163,euro_2024,Group Stage,Serbia,England,0,1,L,0,0.249,0.559,43.0,214,187,0.397,3-4-2-1
+3930163,euro_2024,Group Stage,England,Serbia,1,0,W,3,0.559,0.249,68.3,480,433,0.532,4-2-3-1
+3938637,euro_2024,Group Stage,Poland,Netherlands,1,2,L,0,0.909,1.313,45.0,160,132,0.331,3-5-2
+3938637,euro_2024,Group Stage,Netherlands,Poland,2,1,W,3,1.313,0.909,61.5,426,379,0.656,4-2-3-1
+3930162,euro_2024,Group Stage,Slovenia,Denmark,1,1,D,1,0.966,1.511,66.6,233,174,0.299,4-4-2
+3930162,euro_2024,Group Stage,Denmark,Slovenia,1,1,D,1,1.511,0.966,77.0,588,521,0.682,3-4-1-2
+3938638,euro_2024,Group Stage,Romania,Ukraine,3,0,W,3,1.121,0.543,61.5,194,139,0.3,4-1-4-1
+3938638,euro_2024,Group Stage,Ukraine,Romania,0,3,L,0,0.543,1.121,61.9,453,390,0.7,4-2-3-1
+3930165,euro_2024,Group Stage,Austria,France,0,1,L,0,0.748,1.905,58.6,304,248,0.486,4-2-3-1
+3930165,euro_2024,Group Stage,France,Austria,1,0,W,3,1.905,0.748,70.0,392,331,0.51,4-2-3-1
+3930164,euro_2024,Group Stage,Belgium,Slovakia,0,1,L,0,1.75,0.711,56.2,350,301,0.572,4-2-3-1
+3930164,euro_2024,Group Stage,Slovakia,Belgium,1,0,W,3,0.711,1.75,69.2,287,223,0.394,4-3-3
+3930166,euro_2024,Group Stage,Portugal,Czech Republic,2,1,W,3,1.838,0.315,62.9,544,471,0.755,3-4-1-2
+3930166,euro_2024,Group Stage,Czech Republic,Portugal,1,2,L,0,0.315,1.838,59.9,170,115,0.239,3-5-2
+3938639,euro_2024,Group Stage,Turkey,Georgia,3,1,W,3,2.403,1.579,78.2,562,501,0.588,4-2-3-1
+3938639,euro_2024,Group Stage,Georgia,Turkey,1,3,L,0,1.579,2.403,72.8,359,301,0.392,3-5-2
+3930169,euro_2024,Group Stage,Scotland,Switzerland,1,1,D,1,0.772,0.99,60.8,285,226,0.493,3-4-1-2
+3930169,euro_2024,Group Stage,Switzerland,Scotland,1,1,D,1,0.99,0.772,58.6,293,238,0.508,3-4-1-2
+3930167,euro_2024,Group Stage,Croatia,Albania,2,2,D,1,1.859,1.326,45.0,353,311,0.694,4-3-3
+3930167,euro_2024,Group Stage,Albania,Croatia,2,2,D,1,1.326,1.859,63.1,214,165,0.301,4-1-4-1
+3930168,euro_2024,Group Stage,Germany,Hungary,2,0,W,3,1.484,1.228,57.5,508,457,0.72,4-2-3-1
+3930168,euro_2024,Group Stage,Hungary,Germany,0,2,L,0,1.228,1.484,63.4,226,180,0.295,3-4-2-1
+3930170,euro_2024,Group Stage,Slovenia,Serbia,1,1,D,1,1.552,1.461,62.7,316,253,0.437,4-4-2
+3930170,euro_2024,Group Stage,Serbia,Slovenia,1,1,D,1,1.461,1.552,45.0,281,241,0.545,3-4-2-1
+3930171,euro_2024,Group Stage,Denmark,England,1,1,D,1,0.733,1.173,56.2,382,332,0.503,3-4-3
+3930171,euro_2024,Group Stage,England,Denmark,1,1,D,1,1.173,0.733,53.4,355,310,0.482,4-2-3-1
+3930172,euro_2024,Group Stage,Spain,Italy,1,0,W,3,1.534,0.143,70.8,528,477,0.629,4-2-3-1
+3930172,euro_2024,Group Stage,Italy,Spain,0,1,L,0,0.143,1.534,45.0,206,164,0.386,4-3-3
+3938641,euro_2024,Group Stage,Poland,Austria,1,3,L,0,1.438,1.822,45.0,190,138,0.398,3-5-2
+3938641,euro_2024,Group Stage,Austria,Poland,3,1,W,3,1.822,1.438,45.0,287,243,0.602,4-2-3-1
+3938640,euro_2024,Group Stage,Slovakia,Ukraine,1,2,L,0,0.746,1.732,59.4,396,350,0.563,4-3-3
+3938640,euro_2024,Group Stage,Ukraine,Slovakia,2,1,W,3,1.732,0.746,66.1,339,287,0.453,4-4-1-1
+3930173,euro_2024,Group Stage,Netherlands,France,0,0,D,1,0.738,1.218,72.3,296,259,0.361,4-2-3-1
+3930173,euro_2024,Group Stage,France,Netherlands,0,0,D,1,1.218,0.738,74.5,539,483,0.644,4-4-1-1
+3938642,euro_2024,Group Stage,Georgia,Czech Republic,1,1,D,1,1.18,2.865,61.6,250,198,0.436,3-4-3
+3938642,euro_2024,Group Stage,Czech Republic,Georgia,1,1,D,1,2.865,1.18,54.4,291,235,0.544,3-4-2-1
+3930174,euro_2024,Group Stage,Turkey,Portugal,0,3,L,0,0.779,1.901,45.0,190,151,0.404,4-2-3-1
+3930174,euro_2024,Group Stage,Portugal,Turkey,3,0,W,3,1.901,0.779,45.0,280,241,0.596,4-2-3-1
+3930175,euro_2024,Group Stage,Belgium,Romania,2,0,W,3,1.646,1.246,55.2,354,304,0.658,4-2-3-1
+3930175,euro_2024,Group Stage,Romania,Belgium,0,2,L,0,1.246,1.646,66.9,220,171,0.356,4-1-4-1
+3930176,euro_2024,Group Stage,Switzerland,Germany,1,1,D,1,0.28,1.542,64.5,241,191,0.318,3-4-2-1
+3930176,euro_2024,Group Stage,Germany,Switzerland,1,1,D,1,1.542,0.28,60.6,485,425,0.669,4-2-3-1
+3930177,euro_2024,Group Stage,Scotland,Hungary,0,1,L,0,0.184,1.001,75.8,424,359,0.609,3-4-2-1
+3930177,euro_2024,Group Stage,Hungary,Scotland,1,0,W,3,1.001,0.184,60.5,238,167,0.384,3-4-2-1
+3930178,euro_2024,Group Stage,Croatia,Italy,1,1,D,1,1.483,0.985,45.0,358,325,0.576,4-3-3
+3930178,euro_2024,Group Stage,Italy,Croatia,1,1,D,1,0.985,1.483,45.0,263,229,0.424,3-5-2
+3930179,euro_2024,Group Stage,Albania,Spain,0,1,L,0,0.503,0.952,58.1,284,232,0.399,4-2-3-1
+3930179,euro_2024,Group Stage,Spain,Albania,1,0,W,3,0.952,0.503,45.0,295,251,0.603,4-2-3-1
+3930181,euro_2024,Group Stage,England,Slovenia,0,0,D,1,0.756,0.165,45.0,385,342,0.686,4-2-3-1
+3930181,euro_2024,Group Stage,Slovenia,England,0,0,D,1,0.165,0.756,74.9,228,167,0.255,4-4-2
+3938643,euro_2024,Group Stage,France,Poland,1,1,D,1,1.891,1.179,60.3,421,372,0.615,4-3-3
+3938643,euro_2024,Group Stage,Poland,France,1,1,D,1,1.179,1.891,67.5,315,271,0.416,3-5-2
+3930180,euro_2024,Group Stage,Netherlands,Austria,2,3,L,0,1.51,1.058,34.2,165,128,0.447,4-3-3
+3930180,euro_2024,Group Stage,Austria,Netherlands,3,2,W,3,1.058,1.51,61.5,314,254,0.522,4-2-3-1
+3930182,euro_2024,Group Stage,Denmark,Serbia,0,0,D,1,0.552,0.324,45.0,356,317,0.599,3-4-2-1
+3930182,euro_2024,Group Stage,Serbia,Denmark,0,0,D,1,0.324,0.552,45.0,238,199,0.401,3-4-3
+3938644,euro_2024,Group Stage,Georgia,Portugal,2,0,W,3,1.345,2.356,62.7,221,172,0.309,3-5-2
+3938644,euro_2024,Group Stage,Portugal,Georgia,0,2,L,0,2.356,1.345,45.0,392,357,0.71,3-4-2-1
+3938645,euro_2024,Group Stage,Ukraine,Belgium,0,0,D,1,0.709,0.634,57.4,243,208,0.37,3-5-2
+3938645,euro_2024,Group Stage,Belgium,Ukraine,0,0,D,1,0.634,0.709,61.0,448,392,0.635,4-2-3-1
+3930184,euro_2024,Group Stage,Czech Republic,Turkey,1,2,L,0,1.41,1.218,19.3,73,55,0.351,3-4-2-1
+3930184,euro_2024,Group Stage,Turkey,Czech Republic,2,1,W,3,1.218,1.41,19.3,135,117,0.649,4-2-3-1
+3930183,euro_2024,Group Stage,Slovakia,Romania,1,1,D,1,0.845,1.122,69.6,385,310,0.57,4-3-3
+3930183,euro_2024,Group Stage,Romania,Slovakia,1,1,D,1,1.122,0.845,57.9,243,180,0.43,4-1-4-1
+3940983,euro_2024,Round of 16,Germany,Denmark,2,0,W,3,2.227,1.073,64.0,391,335,0.585,4-2-3-1
+3940983,euro_2024,Round of 16,Denmark,Germany,0,2,L,0,1.073,2.227,68.8,312,255,0.421,3-4-2-1
+3940878,euro_2024,Round of 16,Switzerland,Italy,2,0,W,3,0.782,0.726,70.8,453,406,0.529,3-4-2-1
+3940878,euro_2024,Round of 16,Italy,Switzerland,0,2,L,0,0.726,0.782,45.0,219,183,0.418,4-3-3
+3941018,euro_2024,Round of 16,Spain,Georgia,4,1,W,3,2.765,0.113,51.8,485,434,0.794,4-3-3
+3941018,euro_2024,Round of 16,Georgia,Spain,1,4,L,0,0.113,2.765,40.6,100,73,0.218,3-5-2
+3941017,euro_2024,Round of 16,England,Slovakia,2,1,W,3,1.587,1.548,65.1,531,467,0.751,4-2-3-1
+3941017,euro_2024,Round of 16,Slovakia,England,1,2,L,0,1.548,1.587,60.5,157,107,0.23,4-3-3
+3941019,euro_2024,Round of 16,France,Belgium,1,0,W,3,1.262,0.363,61.4,480,439,0.605,4-3-3
+3941019,euro_2024,Round of 16,Belgium,France,0,1,L,0,0.363,1.262,62.6,318,274,0.395,4-4-2
+3941020,euro_2024,Round of 16,Portugal,Slovenia,0,0,D,1,1.721,0.716,64.7,455,387,0.719,4-2-3-1
+3941020,euro_2024,Round of 16,Slovenia,Portugal,0,0,D,1,0.716,1.721,73.5,207,130,0.291,4-4-2
+3941022,euro_2024,Round of 16,Austria,Turkey,1,2,L,0,2.487,0.883,45.0,251,205,0.507,4-2-3-1
+3941022,euro_2024,Round of 16,Turkey,Austria,2,1,W,3,0.883,2.487,57.5,300,245,0.462,3-4-3
+3941021,euro_2024,Round of 16,Romania,Netherlands,0,3,L,0,0.268,2.626,37.8,88,57,0.271,4-1-4-1
+3941021,euro_2024,Round of 16,Netherlands,Romania,3,0,W,3,2.626,0.268,45.0,293,243,0.738,4-2-3-1
+3942349,euro_2024,Quarter-finals,Portugal,France,0,0,D,1,1.409,1.067,73.6,524,470,0.556,4-4-1-1
+3942349,euro_2024,Quarter-finals,France,Portugal,0,0,D,1,1.067,1.409,66.0,367,324,0.438,4-1-2-1-2
+3942226,euro_2024,Quarter-finals,Spain,Germany,2,1,W,3,1.534,1.629,7.7,30,21,0.625,4-3-3
+3942226,euro_2024,Quarter-finals,Germany,Spain,1,2,L,0,1.629,1.534,45.0,239,202,0.542,4-2-3-1
+3942227,euro_2024,Quarter-finals,England,Switzerland,1,1,D,1,0.537,1.201,77.3,460,406,0.522,3-4-2-1
+3942227,euro_2024,Quarter-finals,Switzerland,England,1,1,D,1,1.201,0.537,62.9,351,309,0.471,3-4-2-1
+3942382,euro_2024,Quarter-finals,Netherlands,Turkey,2,1,W,3,0.719,1.182,45.0,283,249,0.552,4-2-3-1
+3942382,euro_2024,Quarter-finals,Turkey,Netherlands,1,2,L,0,1.182,0.719,76.6,305,242,0.372,3-4-3
+3942752,euro_2024,Semi-finals,Spain,France,2,1,W,3,0.422,0.851,57.3,305,262,0.55,4-2-3-1
+3942752,euro_2024,Semi-finals,France,Spain,1,2,L,0,0.851,0.422,61.5,266,219,0.451,4-3-3
+3942819,euro_2024,Semi-finals,Netherlands,England,1,2,L,0,0.412,1.237,34.4,111,95,0.354,4-2-3-1
+3942819,euro_2024,Semi-finals,England,Netherlands,2,1,W,3,1.237,0.412,45.0,312,283,0.69,3-4-2-1
+3943043,euro_2024,Final,Spain,England,2,1,W,3,1.792,0.726,45.0,310,268,0.684,4-2-3-1
+3943043,euro_2024,Final,England,Spain,1,2,L,0,0.726,1.792,60.7,229,179,0.353,4-2-3-1
+3857286,world_cup_2022,Group Stage,Qatar,Ecuador,0,2,L,0,0.304,1.154,71.0,356,286,0.48,3-5-2
+3857286,world_cup_2022,Group Stage,Ecuador,Qatar,2,0,W,3,1.154,0.304,67.1,354,290,0.505,4-4-2
+3857271,world_cup_2022,Group Stage,England,Iran,6,2,W,3,1.987,1.456,70.5,554,475,0.771,4-2-3-1
+3857271,world_cup_2022,Group Stage,Iran,England,2,6,L,0,1.456,1.987,19.2,8,3,0.087,3-4-3
+3857285,world_cup_2022,Group Stage,Senegal,Netherlands,0,2,L,0,0.691,1.124,61.4,274,222,0.456,4-2-3-1
+3857285,world_cup_2022,Group Stage,Netherlands,Senegal,2,0,W,3,1.124,0.691,61.4,327,269,0.544,3-4-1-2
+3857282,world_cup_2022,Group Stage,United States,Wales,1,1,D,1,0.602,1.395,65.2,427,371,0.572,4-3-3
+3857282,world_cup_2022,Group Stage,Wales,United States,1,1,D,1,1.395,0.602,45.0,174,141,0.357,3-5-2
+3857254,world_cup_2022,Group Stage,Denmark,Tunisia,0,0,D,1,1.567,1.06,45.5,281,224,0.595,3-5-2
+3857254,world_cup_2022,Group Stage,Tunisia,Denmark,0,0,D,1,1.06,1.567,66.7,314,247,0.406,3-4-3
+3857265,world_cup_2022,Group Stage,Mexico,Poland,0,0,D,1,0.529,1.138,70.2,395,319,0.621,4-3-3
+3857265,world_cup_2022,Group Stage,Poland,Mexico,0,0,D,1,1.138,0.529,45.0,165,121,0.385,4-1-4-1
+3857300,world_cup_2022,Group Stage,Argentina,Saudi Arabia,1,2,L,0,2.492,0.153,58.2,389,337,0.673,4-4-2
+3857300,world_cup_2022,Group Stage,Saudi Arabia,Argentina,2,1,W,3,0.153,2.492,47.6,164,118,0.365,4-1-4-1
+3857279,world_cup_2022,Group Stage,France,Australia,4,1,W,3,3.17,0.323,12.0,56,45,0.459,4-2-3-1
+3857279,world_cup_2022,Group Stage,Australia,France,1,4,L,0,0.323,3.17,55.6,291,242,0.404,4-1-4-1
+3857277,world_cup_2022,Group Stage,Morocco,Croatia,0,0,D,1,0.363,0.85,59.9,251,200,0.384,4-1-4-1
+3857277,world_cup_2022,Group Stage,Croatia,Morocco,0,0,D,1,0.85,0.363,45.0,301,257,0.581,4-3-3
+3857284,world_cup_2022,Group Stage,Germany,Japan,1,2,L,0,2.768,1.249,66.6,612,542,0.745,4-2-3-1
+3857284,world_cup_2022,Group Stage,Japan,Germany,2,1,W,3,1.249,2.768,45.0,92,56,0.175,4-2-3-1
+3857268,world_cup_2022,Group Stage,Belgium,Canada,1,0,W,3,0.67,2.546,45.0,261,225,0.592,3-4-2-1
+3857268,world_cup_2022,Group Stage,Canada,Belgium,0,1,L,0,2.546,0.67,57.4,251,209,0.411,3-4-2-1
+3857291,world_cup_2022,Group Stage,Spain,Costa Rica,7,0,W,3,2.762,0.0,56.4,703,650,0.85,4-3-3
+3857291,world_cup_2022,Group Stage,Costa Rica,Spain,0,7,L,0,0.0,2.762,45.0,99,64,0.16,4-4-2
+3857290,world_cup_2022,Group Stage,Switzerland,Cameroon,1,0,W,3,1.427,0.613,71.0,416,352,0.515,4-2-3-1
+3857290,world_cup_2022,Group Stage,Cameroon,Switzerland,0,1,L,0,0.613,1.427,67.9,376,312,0.48,4-3-3
+3857298,world_cup_2022,Group Stage,Portugal,Ghana,3,2,W,3,2.097,0.78,55.8,457,397,0.662,4-3-3
+3857298,world_cup_2022,Group Stage,Ghana,Portugal,2,3,L,0,0.78,2.097,65.7,244,190,0.329,3-5-2
+3857258,world_cup_2022,Group Stage,Brazil,Serbia,2,0,W,3,2.124,0.163,74.8,441,380,0.57,4-2-3-1
+3857258,world_cup_2022,Group Stage,Serbia,Brazil,0,2,L,0,0.163,2.124,56.4,260,213,0.405,3-4-2-1
+3857287,world_cup_2022,Group Stage,Uruguay,South Korea,0,0,D,1,0.417,0.493,63.6,327,267,0.505,4-3-3
+3857287,world_cup_2022,Group Stage,South Korea,Uruguay,0,0,D,1,0.493,0.417,73.6,348,271,0.46,4-2-3-1
+3857274,world_cup_2022,Group Stage,Netherlands,Ecuador,1,1,D,1,0.104,1.651,45.0,246,207,0.488,3-4-1-2
+3857274,world_cup_2022,Group Stage,Ecuador,Netherlands,1,1,D,1,1.651,0.104,73.4,343,269,0.445,3-4-2-1
+3857272,world_cup_2022,Group Stage,England,United States,0,0,D,1,0.461,0.514,67.8,414,353,0.567,4-2-3-1
+3857272,world_cup_2022,Group Stage,United States,England,0,0,D,1,0.514,0.461,76.7,337,278,0.406,4-4-2
+3857273,world_cup_2022,Group Stage,Wales,Iran,0,2,L,0,0.616,1.454,56.9,364,288,0.625,3-5-2
+3857273,world_cup_2022,Group Stage,Iran,Wales,2,0,W,3,1.454,0.616,67.3,241,150,0.369,4-4-1-1
+3857301,world_cup_2022,Group Stage,Qatar,Senegal,1,3,L,0,0.96,0.903,68.3,315,243,0.436,3-5-2
+3857301,world_cup_2022,Group Stage,Senegal,Qatar,3,1,W,3,0.903,0.96,63.7,384,321,0.573,4-2-3-1
+3857297,world_cup_2022,Group Stage,Poland,Saudi Arabia,2,0,W,3,1.734,1.972,62.1,220,176,0.366,4-4-2
+3857297,world_cup_2022,Group Stage,Saudi Arabia,Poland,0,2,L,0,1.972,1.734,45.0,205,168,0.557,4-2-3-1
+3857266,world_cup_2022,Group Stage,France,Denmark,2,1,W,3,1.934,0.889,62.0,369,315,0.515,4-2-3-1
+3857266,world_cup_2022,Group Stage,Denmark,France,1,2,L,0,0.889,1.934,45.0,265,227,0.514,3-4-3
+3857288,world_cup_2022,Group Stage,Tunisia,Australia,0,1,L,0,1.052,0.359,45.0,173,117,0.465,3-4-2-1
+3857288,world_cup_2022,Group Stage,Australia,Tunisia,1,0,W,3,0.359,1.052,63.0,281,188,0.457,4-4-2
+3857289,world_cup_2022,Group Stage,Argentina,Mexico,2,0,W,3,0.325,0.206,56.8,404,348,0.698,4-4-2
+3857289,world_cup_2022,Group Stage,Mexico,Argentina,0,2,L,0,0.206,0.325,40.9,118,83,0.326,3-5-2
+3857295,world_cup_2022,Group Stage,Japan,Costa Rica,0,1,L,0,0.774,0.199,45.0,243,202,0.426,4-4-2
+3857295,world_cup_2022,Group Stage,Costa Rica,Japan,1,0,W,3,0.199,0.774,64.1,377,311,0.495,3-4-3
+3857263,world_cup_2022,Group Stage,Spain,Germany,1,1,D,1,0.64,1.147,53.4,435,383,0.692,4-3-3
+3857263,world_cup_2022,Group Stage,Germany,Spain,1,1,D,1,1.147,0.64,69.0,257,203,0.342,4-2-3-1
+3857283,world_cup_2022,Group Stage,Belgium,Morocco,0,2,L,0,0.643,0.991,59.6,457,400,0.66,4-2-3-1
+3857283,world_cup_2022,Group Stage,Morocco,Belgium,2,0,W,3,0.991,0.643,66.6,271,231,0.347,4-3-3
+3857281,world_cup_2022,Group Stage,Croatia,Canada,4,1,W,3,2.61,0.287,60.0,369,312,0.535,4-3-3
+3857281,world_cup_2022,Group Stage,Canada,Croatia,1,4,L,0,0.287,2.61,45.0,200,160,0.43,4-4-2
+3857269,world_cup_2022,Group Stage,Brazil,Switzerland,1,0,W,3,0.923,0.289,45.0,317,274,0.548,4-3-3
+3857269,world_cup_2022,Group Stage,Switzerland,Brazil,0,1,L,0,0.289,0.923,57.9,335,289,0.463,4-2-3-1
+3857270,world_cup_2022,Group Stage,Portugal,Uruguay,2,0,W,3,1.214,1.217,41.5,302,264,0.691,4-1-2-1-2
+3857270,world_cup_2022,Group Stage,Uruguay,Portugal,0,2,L,0,1.217,1.214,61.5,215,148,0.319,3-5-2
+3857259,world_cup_2022,Group Stage,Cameroon,Serbia,3,3,D,1,2.07,1.738,54.6,214,147,0.431,4-3-3
+3857259,world_cup_2022,Group Stage,Serbia,Cameroon,3,3,D,1,1.738,2.07,55.4,282,221,0.569,3-4-2-1
+3857299,world_cup_2022,Group Stage,South Korea,Ghana,2,3,L,0,1.368,1.181,45.0,277,235,0.598,4-2-3-1
+3857299,world_cup_2022,Group Stage,Ghana,South Korea,3,2,W,3,1.181,1.368,77.8,287,232,0.387,4-2-3-1
+3857278,world_cup_2022,Group Stage,Iran,United States,0,1,L,0,0.921,1.17,45.0,179,127,0.393,4-4-1-1
+3857278,world_cup_2022,Group Stage,United States,Iran,1,0,W,3,1.17,0.921,45.0,277,243,0.607,4-3-3
+3857261,world_cup_2022,Group Stage,Wales,England,0,3,L,0,0.208,2.915,35.9,87,58,0.233,4-2-3-1
+3857261,world_cup_2022,Group Stage,England,Wales,3,0,W,3,2.915,0.208,56.8,435,381,0.72,4-3-3
+3857294,world_cup_2022,Group Stage,Netherlands,Qatar,2,0,W,3,1.714,0.144,65.4,572,511,0.662,3-4-1-2
+3857294,world_cup_2022,Group Stage,Qatar,Netherlands,0,2,L,0,0.144,1.714,63.8,288,223,0.34,3-5-2
+3857267,world_cup_2022,Group Stage,Ecuador,Senegal,1,2,L,0,1.002,1.707,45.0,170,133,0.521,4-3-3
+3857267,world_cup_2022,Group Stage,Senegal,Ecuador,2,1,W,3,1.707,1.002,73.8,229,157,0.413,4-2-3-1
+3857275,world_cup_2022,Group Stage,Tunisia,France,1,0,W,3,0.298,0.477,59.1,269,208,0.461,3-4-2-1
+3857275,world_cup_2022,Group Stage,France,Tunisia,0,1,L,0,0.477,0.298,62.6,324,268,0.538,4-3-3
+3857257,world_cup_2022,Group Stage,Australia,Denmark,1,0,W,3,0.47,0.737,45.0,168,114,0.333,4-4-2
+3857257,world_cup_2022,Group Stage,Denmark,Australia,0,1,L,0,0.737,0.47,45.0,336,280,0.667,4-3-3
+3857260,world_cup_2022,Group Stage,Saudi Arabia,Mexico,1,2,L,0,1.076,2.322,36.0,81,49,0.295,4-4-2
+3857260,world_cup_2022,Group Stage,Mexico,Saudi Arabia,2,1,W,3,2.322,1.076,45.0,243,199,0.713,4-2-3-1
+3857264,world_cup_2022,Group Stage,Poland,Argentina,0,2,L,0,0.198,3.077,45.0,153,118,0.325,4-4-2
+3857264,world_cup_2022,Group Stage,Argentina,Poland,2,0,W,3,3.077,0.198,58.3,456,396,0.673,4-3-3
+3857276,world_cup_2022,Group Stage,Canada,Morocco,1,2,L,0,1.096,0.426,59.8,343,296,0.532,4-4-1-1
+3857276,world_cup_2022,Group Stage,Morocco,Canada,2,1,W,3,0.426,1.096,64.2,317,261,0.457,4-3-3
+3857296,world_cup_2022,Group Stage,Croatia,Belgium,0,0,D,1,0.695,2.382,63.3,423,365,0.489,4-3-3
+3857296,world_cup_2022,Group Stage,Belgium,Croatia,0,0,D,1,2.382,0.695,45.0,318,282,0.547,4-2-3-1
+3857255,world_cup_2022,Group Stage,Japan,Spain,2,1,W,3,1.158,0.858,45.0,127,98,0.184,3-4-3
+3857255,world_cup_2022,Group Stage,Spain,Japan,1,2,L,0,0.858,1.158,45.0,563,526,0.816,4-3-3
+3857292,world_cup_2022,Group Stage,Costa Rica,Germany,2,4,L,0,1.035,4.316,45.0,169,126,0.293,3-4-3
+3857292,world_cup_2022,Group Stage,Germany,Costa Rica,4,2,W,3,4.316,1.035,45.0,408,357,0.707,4-2-3-1
+3857256,world_cup_2022,Group Stage,Serbia,Switzerland,2,3,L,0,1.189,3.104,54.0,275,215,0.524,3-4-1-2
+3857256,world_cup_2022,Group Stage,Switzerland,Serbia,3,2,W,3,3.104,1.189,67.8,305,240,0.485,4-2-3-1
+3857293,world_cup_2022,Group Stage,Ghana,Uruguay,0,2,L,0,1.393,1.637,45.0,151,117,0.453,4-2-3-1
+3857293,world_cup_2022,Group Stage,Uruguay,Ghana,2,0,W,3,1.637,1.393,33.8,141,114,0.578,4-4-2
+3857280,world_cup_2022,Group Stage,Cameroon,Brazil,1,0,W,3,0.383,2.378,63.1,210,162,0.351,4-4-2
+3857280,world_cup_2022,Group Stage,Brazil,Cameroon,0,1,L,0,2.378,0.383,54.1,344,291,0.639,4-2-3-1
+3857262,world_cup_2022,Group Stage,South Korea,Portugal,2,1,W,3,1.399,0.974,65.4,278,223,0.381,4-3-3
+3857262,world_cup_2022,Group Stage,Portugal,South Korea,1,2,L,0,0.974,1.399,64.4,452,397,0.62,4-3-3
+3869151,world_cup_2022,Round of 16,Argentina,Australia,2,1,W,3,1.482,0.426,49.1,444,404,0.639,4-3-3
+3869151,world_cup_2022,Round of 16,Australia,Argentina,1,2,L,0,0.426,1.482,57.9,288,240,0.361,4-4-2
+3869117,world_cup_2022,Round of 16,Netherlands,United States,3,1,W,3,1.482,1.652,45.0,184,139,0.362,3-4-1-2
+3869117,world_cup_2022,Round of 16,United States,Netherlands,1,3,L,0,1.652,1.482,45.0,324,269,0.638,4-3-3
+3869118,world_cup_2022,Round of 16,England,Senegal,3,0,W,3,1.02,0.973,64.3,461,393,0.653,4-3-3
+3869118,world_cup_2022,Round of 16,Senegal,England,0,3,L,0,0.973,1.02,45.0,154,118,0.333,4-2-3-1
+3869152,world_cup_2022,Round of 16,France,Poland,3,1,W,3,1.126,1.594,65.7,438,369,0.573,4-2-3-1
+3869152,world_cup_2022,Round of 16,Poland,France,1,3,L,0,1.594,1.126,63.8,315,260,0.426,4-1-4-1
+3869219,world_cup_2022,Round of 16,Japan,Croatia,1,1,D,1,1.069,0.854,63.3,319,252,0.423,3-4-3
+3869219,world_cup_2022,Round of 16,Croatia,Japan,1,1,D,1,0.854,1.069,61.3,422,361,0.57,4-3-3
+3869253,world_cup_2022,Round of 16,Brazil,South Korea,4,1,W,3,3.261,0.345,62.5,454,403,0.558,4-2-3-1
+3869253,world_cup_2022,Round of 16,South Korea,Brazil,1,4,L,0,0.345,3.261,45.0,221,191,0.418,4-4-2
+3869254,world_cup_2022,Round of 16,Portugal,Switzerland,6,1,W,3,2.284,1.272,72.6,364,299,0.487,4-3-3
+3869254,world_cup_2022,Round of 16,Switzerland,Portugal,1,6,L,0,1.272,2.284,45.0,228,182,0.483,3-5-2
+3869220,world_cup_2022,Round of 16,Morocco,Spain,0,0,D,1,0.57,0.495,65.9,212,149,0.281,4-3-3
+3869220,world_cup_2022,Round of 16,Spain,Morocco,0,0,D,1,0.495,0.57,62.5,520,473,0.716,4-3-3
+3869321,world_cup_2022,Quarter-finals,Netherlands,Argentina,2,2,D,1,0.57,1.939,45.0,268,229,0.557,3-4-1-2
+3869321,world_cup_2022,Quarter-finals,Argentina,Netherlands,2,2,D,1,1.939,0.57,65.8,350,284,0.447,3-5-2
+3869420,world_cup_2022,Quarter-finals,Croatia,Brazil,1,1,D,1,0.633,1.816,71.8,457,398,0.513,4-3-3
+3869420,world_cup_2022,Quarter-finals,Brazil,Croatia,1,1,D,1,1.816,0.633,55.2,346,304,0.527,4-4-1-1
+3869486,world_cup_2022,Quarter-finals,Morocco,Portugal,1,0,W,3,0.972,0.744,57.0,178,143,0.305,4-1-4-1
+3869486,world_cup_2022,Quarter-finals,Portugal,Morocco,0,1,L,0,0.744,0.972,50.7,379,323,0.688,4-3-3
+3869354,world_cup_2022,Quarter-finals,England,France,1,2,L,0,2.353,0.839,78.8,474,411,0.563,4-3-3
+3869354,world_cup_2022,Quarter-finals,France,England,2,1,W,3,0.839,2.353,78.6,368,303,0.438,4-2-3-1
+3869519,world_cup_2022,Semi-finals,Argentina,Croatia,3,0,W,3,1.864,0.41,61.5,280,230,0.377,4-4-2
+3869519,world_cup_2022,Semi-finals,Croatia,Argentina,0,3,L,0,0.41,1.864,45.0,313,272,0.613,4-3-3
+3869552,world_cup_2022,Semi-finals,France,Morocco,2,0,W,3,2.002,1.23,64.8,269,223,0.38,4-2-3-1
+3869552,world_cup_2022,Semi-finals,Morocco,France,0,2,L,0,1.23,2.002,20.6,133,121,0.564,3-4-3
+3869684,world_cup_2022,3rd Place Final,Croatia,Morocco,2,1,W,3,0.849,0.991,61.1,377,324,0.564,4-2-3-1
+3869684,world_cup_2022,3rd Place Final,Morocco,Croatia,1,2,L,0,0.991,0.849,45.0,197,162,0.41,4-3-3
+3869685,world_cup_2022,Final,Argentina,France,3,3,D,1,2.758,2.273,63.9,369,305,0.555,4-3-3
+3869685,world_cup_2022,Final,France,Argentina,3,3,D,1,2.273,2.758,40.5,144,110,0.352,4-2-3-1

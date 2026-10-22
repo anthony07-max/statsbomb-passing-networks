@@ -1,0 +1,254 @@
+{
+  "matches": 115,
+  "team_networks": 230,
+  "networks_used": 220,
+  "median_window_min": 58.8,
+  "spearman_xg_diff": {
+    "passes_per90": [
+      0.444,
+      4.8e-12
+    ],
+    "density": [
+      0.386,
+      3e-09
+    ],
+    "clustering": [
+      -0.138,
+      0.041
+    ],
+    "centralisation": [
+      0.012,
+      0.86
+    ],
+    "top_player_share": [
+      0.018,
+      0.79
+    ],
+    "network_height": [
+      0.393,
+      1.6e-09
+    ],
+    "pass_share": [
+      0.484,
+      2.7e-14
+    ]
+  },
+  "spearman_points": {
+    "passes_per90": [
+      0.24,
+      0.00032
+    ],
+    "density": [
+      0.266,
+      6.6e-05
+    ],
+    "clustering": [
+      0.026,
+      0.7
+    ],
+    "centralisation": [
+      -0.068,
+      0.32
+    ],
+    "top_player_share": [
+      -0.071,
+      0.3
+    ],
+    "network_height": [
+      0.334,
+      3.8e-07
+    ],
+    "pass_share": [
+      0.267,
+      6e-05
+    ]
+  },
+  "ols_r2": 0.399,
+  "ols_coefs": {
+    "passes_per90": [
+      -0.01,
+      0.97
+    ],
+    "density": [
+      0.463,
+      0.06
+    ],
+    "centralisation": [
+      -0.236,
+      0.045
+    ],
+    "clustering": [
+      -0.367,
+      0.0028
+    ],
+    "network_height": [
+      0.312,
+      0.028
+    ]
+  },
+  "ols2_coefs": {
+    "pass_share": [
+      0.406,
+      0.099
+    ],
+    "density": [
+      0.281,
+      0.24
+    ],
+    "centralisation": [
+      -0.128,
+      0.23
+    ]
+  },
+  "ols2_r2": 0.311,
+  "denser_side_won_pct": 66.7,
+  "more_passes_side_won_pct": 67.9,
+  "more_passes_side_higher_xg_pct": 66.4,
+  "decisive_networks": 156,
+  "by_result_means": {
+    "D": {
+      "passes_per90": 423.501,
+      "density": 0.355,
+      "clustering": 0.182,
+      "centralisation": 0.464,
+      "top_player_share": 0.159,
+      "network_height": 48.504,
+      "pass_share": 0.495
+    },
+    "L": {
+      "passes_per90": 364.814,
+      "density": 0.275,
+      "clustering": 0.188,
+      "centralisation": 0.473,
+      "top_player_share": 0.162,
+      "network_height": 45.987,
+      "pass_share": 0.453
+    },
+    "W": {
+      "passes_per90": 452.045,
+      "density": 0.355,
+      "clustering": 0.193,
+      "centralisation": 0.456,
+      "top_player_share": 0.158,
+      "network_height": 50.328,
+      "pass_share": 0.538
+    }
+  },
+  "top_passing_teams": [
+    [
+      "Spain",
+      "world_cup_2022",
+      854.0,
+      0.477
+    ],
+    [
+      "Germany",
+      "euro_2024",
+      622.5,
+      0.439
+    ],
+    [
+      "Portugal",
+      "euro_2024",
+      596.6,
+      0.449
+    ],
+    [
+      "Croatia",
+      "euro_2024",
+      580.5,
+      0.424
+    ],
+    [
+      "Germany",
+      "world_cup_2022",
+      570.4,
+      0.409
+    ]
+  ],
+  "team_level_passes_vs_xgdiff": [
+    0.614,
+    4.8e-07
+  ],
+  "top_connectors": [
+    [
+      "Rodri",
+      "Spain",
+      "world_cup_2022",
+      0.388,
+      4
+    ],
+    [
+      "Hakan \u00c7alhano\u011flu",
+      "Turkey",
+      "euro_2024",
+      0.381,
+      3
+    ],
+    [
+      "Jakub Kiwior",
+      "Poland",
+      "world_cup_2022",
+      0.379,
+      4
+    ],
+    [
+      "Piero Hincapi\u00e9",
+      "Ecuador",
+      "world_cup_2022",
+      0.374,
+      3
+    ],
+    [
+      "John Stones",
+      "England",
+      "world_cup_2022",
+      0.358,
+      4
+    ]
+  ],
+  "key_connector_positions": {
+    "Left Center Back": 25.8,
+    "Right Center Back": 20.9,
+    "Left Defensive Midfield": 12.9,
+    "Center Defensive Midfield": 10.2,
+    "Right Defensive Midfield": 8.0
+  },
+  "top_combinations": [
+    [
+      "Rodri",
+      "Aymeric Laporte",
+      "Spain",
+      "world_cup_2022",
+      28.7
+    ],
+    [
+      "Aymeric Laporte",
+      "Jordi Alba",
+      "Spain",
+      "world_cup_2022",
+      27.0
+    ],
+    [
+      "Aymeric Laporte",
+      "Rodri",
+      "Spain",
+      "world_cup_2022",
+      26.0
+    ],
+    [
+      "Toby Alderweireld",
+      "Jan Vertonghen",
+      "Belgium",
+      "world_cup_2022",
+      20.7
+    ],
+    [
+      "Pepe",
+      "Nuno Mendes",
+      "Portugal",
+      "euro_2024",
+      20.2
+    ]
+  ]
+}

@@ -1,0 +1,201 @@
+tournament,team,passer,recipient,passes,matches,per_match
+world_cup_2022,Spain,Rodri,Aymeric Laporte,86,3,28.67
+world_cup_2022,Spain,Aymeric Laporte,Jordi Alba,81,3,27.0
+world_cup_2022,Spain,Aymeric Laporte,Rodri,78,3,26.0
+world_cup_2022,Belgium,Toby Alderweireld,Jan Vertonghen,62,3,20.67
+euro_2024,Portugal,Pepe,Nuno Mendes,81,4,20.25
+world_cup_2022,Belgium,Jan Vertonghen,Toby Alderweireld,59,3,19.67
+world_cup_2022,England,Harry Maguire,John Stones,95,5,19.0
+world_cup_2022,United States,Tim Ream,Walker Zimmerman,57,3,19.0
+world_cup_2022,United States,Walker Zimmerman,Tim Ream,54,3,18.0
+world_cup_2022,England,John Stones,Harry Maguire,87,5,17.4
+world_cup_2022,Brazil,Marquinhos,Thiago Silva,68,4,17.0
+world_cup_2022,England,Harry Maguire,Luke Shaw,79,5,15.8
+euro_2024,Germany,Antonio Rüdiger,Jonathan Tah,63,4,15.75
+world_cup_2022,Spain,Jordi Alba,Aymeric Laporte,46,3,15.33
+euro_2024,Germany,Jonathan Tah,Toni Kroos,61,4,15.25
+world_cup_2022,Brazil,Thiago Silva,Danilo,45,3,15.0
+euro_2024,Belgium,Jan Vertonghen,Arthur Theate,44,3,14.67
+world_cup_2022,United States,Walker Zimmerman,Sergiño Dest,44,3,14.67
+euro_2024,Belgium,Wout Faes,Jan Vertonghen,44,3,14.67
+world_cup_2022,Brazil,Thiago Silva,Marquinhos,57,4,14.25
+world_cup_2022,Spain,Pedri,Jordi Alba,42,3,14.0
+euro_2024,Spain,Robin Le Normand,Daniel Carvajal,55,4,13.75
+world_cup_2022,Germany,Antonio Rüdiger,Niklas Süle,41,3,13.67
+euro_2024,Spain,Aymeric Laporte,Robin Le Normand,41,3,13.67
+world_cup_2022,England,Luke Shaw,Harry Maguire,68,5,13.6
+euro_2024,Portugal,Nuno Mendes,Pepe,54,4,13.5
+euro_2024,Portugal,Nuno Mendes,Rafael Leão,54,4,13.5
+euro_2024,Belgium,Jan Vertonghen,Wout Faes,40,3,13.33
+world_cup_2022,Spain,Jordi Alba,Pedri,40,3,13.33
+euro_2024,Germany,Robert Andrich,Toni Kroos,53,4,13.25
+euro_2024,France,Theo Hernández,Kylian Mbappé,66,5,13.2
+euro_2024,Italy,Nicolò Barella,Jorginho,39,3,13.0
+euro_2024,Italy,Jorginho,Nicolò Barella,38,3,12.67
+world_cup_2022,England,John Stones,Kyle Walker,38,3,12.67
+world_cup_2022,Spain,Jordi Alba,Daniel Olmo,37,3,12.33
+euro_2024,Germany,Toni Kroos,Florian Wirtz,37,3,12.33
+world_cup_2022,Germany,Joshua Kimmich,Niklas Süle,37,3,12.33
+euro_2024,Germany,Joshua Kimmich,Antonio Rüdiger,61,5,12.2
+world_cup_2022,England,John Stones,Jordan Henderson,36,3,12.0
+euro_2024,Ukraine,Mykola Matvienko,Ilya Zabarnyi,36,3,12.0
+euro_2024,Belgium,Arthur Theate,Jérémy Doku,36,3,12.0
+euro_2024,England,Marc Guehi,John Stones,71,6,11.83
+world_cup_2022,Argentina,Nicolás Otamendi,Enzo Fernandez,59,5,11.8
+euro_2024,Denmark,Andreas Christensen,Jannik Vestergaard,47,4,11.75
+euro_2024,France,Jules Koundé,Ousmane Dembélé,47,4,11.75
+euro_2024,Portugal,Rúben Dias,Pepe,47,4,11.75
+world_cup_2022,England,Kyle Walker,John Stones,35,3,11.67
+world_cup_2022,Spain,Aymeric Laporte,Pedri,35,3,11.67
+world_cup_2022,Croatia,Marcelo Brozović,Mateo Kovačić,70,6,11.67
+world_cup_2022,Germany,Niklas Süle,Antonio Rüdiger,35,3,11.67
+euro_2024,Slovakia,Milan Škriniar,Denis Vavro,46,4,11.5
+euro_2024,France,William Saliba,Aurélien Tchouaméni,57,5,11.4
+euro_2024,Italy,Jorginho,Giovanni Lorenzo,34,3,11.33
+euro_2024,Slovakia,Denis Vavro,Milan Škriniar,45,4,11.25
+euro_2024,Germany,Antonio Rüdiger,Joshua Kimmich,56,5,11.2
+euro_2024,Portugal,Rúben Dias,Vitinha,44,4,11.0
+euro_2024,Germany,Toni Kroos,Robert Andrich,44,4,11.0
+euro_2024,England,John Stones,Kyle Walker,77,7,11.0
+euro_2024,Ukraine,Ilya Zabarnyi,Mykola Matvienko,33,3,11.0
+world_cup_2022,Argentina,Nicolás Otamendi,Cristian Romero,66,6,11.0
+euro_2024,England,John Stones,Marc Guehi,65,6,10.83
+world_cup_2022,Croatia,Luka Modrić,Marcelo Brozović,65,6,10.83
+euro_2024,Spain,Marc Cucurella,Aymeric Laporte,54,5,10.8
+world_cup_2022,England,Declan Rice,John Stones,54,5,10.8
+world_cup_2022,Argentina,Enzo Fernandez,Rodrigo De Paul,43,4,10.75
+world_cup_2022,Netherlands,Jurriën Timber,Virgil Dijk,43,4,10.75
+euro_2024,Denmark,Joachim Andersen,Alexander Bah,32,3,10.67
+world_cup_2022,Portugal,Rúben Neves,Pepe,32,3,10.67
+world_cup_2022,Spain,Unai Simón,Aymeric Laporte,32,3,10.67
+world_cup_2022,Brazil,Danilo,Thiago Silva,32,3,10.67
+world_cup_2022,Croatia,Joško Gvardiol,Dejan Lovren,64,6,10.67
+euro_2024,Denmark,Alexander Bah,Joachim Andersen,32,3,10.67
+euro_2024,France,Aurélien Tchouaméni,Theo Hernández,53,5,10.6
+world_cup_2022,Netherlands,Virgil Dijk,Nathan Aké,53,5,10.6
+euro_2024,England,Kyle Walker,John Stones,74,7,10.57
+world_cup_2022,Poland,Kamil Glik,Jakub Kiwior,42,4,10.5
+euro_2024,Spain,Robin Le Normand,Aymeric Laporte,42,4,10.5
+world_cup_2022,France,Theo Hernández,Kylian Mbappé,52,5,10.4
+euro_2024,Slovakia,Milan Škriniar,Ondrej Duda,31,3,10.33
+world_cup_2022,Spain,Daniel Olmo,Jordi Alba,31,3,10.33
+world_cup_2022,Portugal,Pepe,Rúben Neves,31,3,10.33
+world_cup_2022,Brazil,Éder Militão,Raphinha,31,3,10.33
+world_cup_2022,Mexico,César Montes,Héctor Moreno,31,3,10.33
+world_cup_2022,Spain,Pedri,Aymeric Laporte,31,3,10.33
+euro_2024,Spain,Aymeric Laporte,Marc Cucurella,51,5,10.2
+world_cup_2022,Netherlands,Nathan Aké,Daley Blind,51,5,10.2
+world_cup_2022,Croatia,Dejan Lovren,Josip Juranović,61,6,10.17
+euro_2024,Italy,Riccardo Calafiori,Jorginho,30,3,10.0
+world_cup_2022,Ecuador,Piero Hincapié,Pervis Estupiñán,30,3,10.0
+world_cup_2022,Spain,Sergio Busquets,Pedri,40,4,10.0
+euro_2024,Denmark,Pierre-Emile Højbjerg,Morten Hjulmand,30,3,10.0
+world_cup_2022,Croatia,Dejan Lovren,Joško Gvardiol,60,6,10.0
+euro_2024,Germany,Jonathan Tah,Antonio Rüdiger,40,4,10.0
+world_cup_2022,Spain,Pedri,Rodri,40,4,10.0
+euro_2024,Denmark,Joachim Andersen,Andreas Christensen,30,3,10.0
+euro_2024,Denmark,Andreas Christensen,Pierre-Emile Højbjerg,40,4,10.0
+euro_2024,England,Kieran Trippier,Phil Foden,59,6,9.83
+world_cup_2022,England,John Stones,Declan Rice,49,5,9.8
+world_cup_2022,France,Jules Koundé,Ousmane Dembélé,49,5,9.8
+euro_2024,Denmark,Jannik Vestergaard,Andreas Christensen,39,4,9.75
+euro_2024,England,Kyle Walker,Bukayo Saka,68,7,9.71
+euro_2024,Belgium,Arthur Theate,Jan Vertonghen,29,3,9.67
+world_cup_2022,Croatia,Mateo Kovačić,Marcelo Brozović,58,6,9.67
+world_cup_2022,Argentina,Cristian Romero,Nicolás Otamendi,58,6,9.67
+world_cup_2022,Brazil,Marquinhos,Danilo,29,3,9.67
+world_cup_2022,Brazil,Danilo,Marquinhos,29,3,9.67
+euro_2024,Italy,Riccardo Calafiori,Alessandro Bastoni,29,3,9.67
+world_cup_2022,Croatia,Josip Juranović,Luka Modrić,57,6,9.5
+euro_2024,Albania,Berat Djimsiti,Mario Mitaj,28,3,9.33
+euro_2024,France,William Saliba,Dayotchanculle Upamecano,56,6,9.33
+world_cup_2022,United States,Sergiño Dest,Walker Zimmerman,28,3,9.33
+world_cup_2022,Germany,Antonio Rüdiger,Manuel Neuer,28,3,9.33
+world_cup_2022,Croatia,Marcelo Brozović,Luka Modrić,56,6,9.33
+world_cup_2022,Argentina,Rodrigo De Paul,Ángel Di María,28,3,9.33
+world_cup_2022,Germany,Niklas Süle,Joshua Kimmich,28,3,9.33
+euro_2024,Denmark,Morten Hjulmand,Pierre-Emile Højbjerg,28,3,9.33
+euro_2024,Germany,Toni Kroos,Maximilian Mittelstädt,28,3,9.33
+euro_2024,Italy,Alessandro Bastoni,Riccardo Calafiori,28,3,9.33
+euro_2024,Denmark,Jannik Vestergaard,Joachim Andersen,37,4,9.25
+euro_2024,Denmark,Jannik Vestergaard,Pierre-Emile Højbjerg,37,4,9.25
+world_cup_2022,France,Dayotchanculle Upamecano,Theo Hernández,37,4,9.25
+euro_2024,Portugal,Vitinha,Rúben Dias,37,4,9.25
+euro_2024,England,Marc Guehi,Kieran Trippier,46,5,9.2
+world_cup_2022,Qatar,Boualem Khoukhi,Abdelkarim Hassan,27,3,9.0
+world_cup_2022,Argentina,Nicolás Otamendi,Marcos Acuña,27,3,9.0
+world_cup_2022,Ghana,Daniel Amartey,Thomas Partey,27,3,9.0
+world_cup_2022,Switzerland,Yann Sommer,Manuel Akanji,27,3,9.0
+euro_2024,Switzerland,Manuel Akanji,Fabian Schär,45,5,9.0
+euro_2024,Italy,Giovanni Lorenzo,Jorginho,27,3,9.0
+euro_2024,Portugal,Rúben Dias,Bernardo Silva,36,4,9.0
+world_cup_2022,Portugal,Rúben Dias,Pepe,27,3,9.0
+euro_2024,Spain,Rodri,Fabián Ruiz,45,5,9.0
+euro_2024,Switzerland,Granit Xhaka,Michel Aebischer,45,5,9.0
+world_cup_2022,Croatia,Joško Gvardiol,Borna Sosa,44,5,8.8
+world_cup_2022,Netherlands,Virgil Dijk,Jurriën Timber,35,4,8.75
+euro_2024,Spain,Daniel Carvajal,Rodri,35,4,8.75
+euro_2024,Belgium,Wout Faes,Amadou Onana,35,4,8.75
+euro_2024,Serbia,Nikola Milenković,Milos Veljkovic,26,3,8.67
+world_cup_2022,Portugal,Rúben Neves,Rúben Dias,26,3,8.67
+euro_2024,Albania,Kristjan Asllani,Berat Djimsiti,26,3,8.67
+euro_2024,Croatia,Josip Šutalo,Marcelo Brozović,26,3,8.67
+euro_2024,Turkey,Samet Akaydin,Abdülkerim Bardakcı,26,3,8.67
+world_cup_2022,Portugal,Rúben Dias,Rúben Neves,26,3,8.67
+world_cup_2022,Denmark,Joachim Andersen,Andreas Christensen,26,3,8.67
+euro_2024,France,Jules Koundé,Antoine Griezmann,26,3,8.67
+world_cup_2022,Brazil,Thiago Silva,Éder Militão,26,3,8.67
+world_cup_2022,Argentina,Nicolás Otamendi,Nicolás Tagliafico,26,3,8.67
+world_cup_2022,Brazil,Marquinhos,Éder Militão,26,3,8.67
+euro_2024,Slovakia,Stanislav Lobotka,Milan Škriniar,34,4,8.5
+euro_2024,Portugal,Rúben Dias,João Cancelo,34,4,8.5
+euro_2024,Denmark,Joachim Andersen,Jannik Vestergaard,34,4,8.5
+world_cup_2022,Argentina,Nahuel Molina,Rodrigo De Paul,51,6,8.5
+world_cup_2022,Australia,Kye Rowles,Harry Souttar,34,4,8.5
+world_cup_2022,Morocco,Nayef Aguerd,Achraf Hakimi,34,4,8.5
+world_cup_2022,Spain,Rodri,Sergio Busquets,34,4,8.5
+world_cup_2022,France,Raphaël Varane,Jules Koundé,42,5,8.4
+world_cup_2022,England,Jordan Pickford,John Stones,42,5,8.4
+euro_2024,Switzerland,Granit Xhaka,Ricardo Rodríguez,42,5,8.4
+world_cup_2022,Denmark,Joachim Andersen,Rasmus Kristensen,25,3,8.33
+euro_2024,Turkey,Abdülkerim Bardakcı,Hakan Çalhanoğlu,25,3,8.33
+euro_2024,France,Dayotchanculle Upamecano,William Saliba,50,6,8.33
+euro_2024,Denmark,Morten Hjulmand,Jannik Vestergaard,25,3,8.33
+world_cup_2022,Mexico,Héctor Moreno,César Montes,25,3,8.33
+world_cup_2022,Spain,Rodri,Gavi,25,3,8.33
+world_cup_2022,Germany,Niklas Süle,İlkay Gündoğan,25,3,8.33
+euro_2024,Turkey,Ferdi Kadioglu,Orkun Kökçü,25,3,8.33
+world_cup_2022,Brazil,Lucas Paquetá,Raphinha,25,3,8.33
+euro_2024,Italy,Alessandro Bastoni,Jorginho,25,3,8.33
+euro_2024,Serbia,Milos Veljkovic,Nikola Milenković,25,3,8.33
+world_cup_2022,Germany,David Raum,Jamal Musiala,25,3,8.33
+world_cup_2022,Spain,Rodri,Pedri,33,4,8.25
+euro_2024,Portugal,Pepe,Rúben Dias,33,4,8.25
+euro_2024,Spain,Aymeric Laporte,Nico Williams,33,4,8.25
+euro_2024,Spain,Daniel Carvajal,Robin Le Normand,33,4,8.25
+world_cup_2022,Poland,Jakub Kiwior,Kamil Glik,33,4,8.25
+world_cup_2022,Spain,Sergio Busquets,Rodri,33,4,8.25
+euro_2024,Belgium,Koen Casteels,Wout Faes,33,4,8.25
+euro_2024,France,Theo Hernández,Aurélien Tchouaméni,41,5,8.2
+euro_2024,Germany,Toni Kroos,Antonio Rüdiger,41,5,8.2
+euro_2024,Switzerland,Manuel Akanji,Yann Sommer,41,5,8.2
+euro_2024,Spain,Aymeric Laporte,Rodri,41,5,8.2
+euro_2024,Spain,Fabián Ruiz,Rodri,41,5,8.2
+euro_2024,England,Marc Guehi,Declan Rice,49,6,8.17
+euro_2024,England,Phil Foden,Kieran Trippier,49,6,8.17
+euro_2024,Netherlands,Virgil Dijk,Stefan Vrij,48,6,8.0
+euro_2024,France,Antoine Griezmann,Jules Koundé,24,3,8.0
+world_cup_2022,Ecuador,Pervis Estupiñán,Piero Hincapié,24,3,8.0
+euro_2024,Croatia,Marcelo Brozović,Mateo Kovačić,24,3,8.0
+euro_2024,Spain,Rodri,Marc Cucurella,32,4,8.0
+world_cup_2022,United States,Tyler Adams,Walker Zimmerman,24,3,8.0
+euro_2024,Portugal,Nuno Mendes,Vitinha,24,3,8.0
+world_cup_2022,France,Aurélien Tchouaméni,Antoine Griezmann,32,4,8.0
+euro_2024,Switzerland,Granit Xhaka,Manuel Akanji,40,5,8.0
+euro_2024,Poland,Jakub Kiwior,Nicola Zalewski,24,3,8.0
+world_cup_2022,Canada,Steven Vitória,Alistair Johnston,24,3,8.0
+world_cup_2022,Brazil,Neymar,Vinícius Júnior,24,3,8.0
+world_cup_2022,United States,Antonee Robinson,Christian Pulisic,32,4,8.0
+euro_2024,Turkey,Hakan Çalhanoğlu,Kaan Ayhan,24,3,8.0
+euro_2024,Denmark,Joachim Andersen,Morten Hjulmand,24,3,8.0
+euro_2024,England,Declan Rice,Jude Bellingham,48,6,8.0
